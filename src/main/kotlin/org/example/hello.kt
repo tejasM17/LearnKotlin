@@ -1,7 +1,8 @@
 package org.example
-fun main() {
-    var x = 5
-    var y = 2
 
-    println(x * y)
+fun main() {
+    val name  = "tejas"
+    val age = 19
+
+    println("Am $name and am $age years old")
 }
